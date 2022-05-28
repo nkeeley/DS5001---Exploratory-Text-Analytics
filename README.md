@@ -26,7 +26,7 @@ In this assignment, I utilized a Principal Components Analysis function covered 
 
 ### Keeley_M8 Assignment_30MAR2022(1).ipynb
 
-In this assignment, I utilized a wrapper function for Sklearn's LDA function covered in class to generate topics for a corpus.
+In this assignment, I utilized a wrapper function for Sklearn's LDA function covered in class to generate topics for a corpus of dating profiles. The topic content of these profiles was then analyzed by grouping profiles along demographic/socio-economic lines.
 
 ### M09_04_word2vec-Copy1.ipynb
 
